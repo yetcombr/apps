@@ -11,7 +11,7 @@ with notifications, and calls with your camera, microphone and screen.
 | --- | --- |
 | macOS, Apple silicon (M1 and later) | `yet-<version>-arm64.dmg` |
 | macOS, Intel | `yet-<version>.dmg` |
-| Windows | `yet Setup <version>.exe` |
+| Windows | `yet-Setup-<version>.exe` |
 | Linux | `yet-<version>.AppImage` (updates itself) or `.deb` |
 
 Once installed, the app keeps itself up to date.
